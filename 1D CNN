@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T18:06:40.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="wKvmlXJlR4lnCqCIwAsg" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T19:05:22.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="cMIu8Q_Cc5QVS6dDTob2" version="15.1.4" type="github">
   <diagram id="QJjx0-fPxzvcmYibJWj1" name="Page-1">
-    <mxGraphModel dx="3058" dy="1337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="2129" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,18 @@
         </mxCell>
         <mxCell id="0hlM5YRZBhclHTop9J4i-69" value="input" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="604" y="368.56" width="138" height="23.88" as="geometry" />
+        </mxCell>
+        <mxCell id="isUByKGKLDx2MiQpkh0V-18" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="90" width="560" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="isUByKGKLDx2MiQpkh0V-19" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;FEATURE EXTRACTION&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="70" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="isUByKGKLDx2MiQpkh0V-20" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isUByKGKLDx2MiQpkh0V-21" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;CLASSIFICATION&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="280" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
